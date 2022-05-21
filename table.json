@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "model": "m3",
+    "price": 10000000,
+    "power": 500,
+    "description": null,
+    "brandName": "BMW"
+}
